@@ -1,7 +1,7 @@
 <h1>Portfólio IBM</h1> 
 
 
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge"/>
+   <img src="https://img.shields.io/static/v1?label=STATUS&message=CONCLU%C3%8DDO&color=RED&style=for-the-badge)"/>
 
 <br>
 
