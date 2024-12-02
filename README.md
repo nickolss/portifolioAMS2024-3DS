@@ -1,10 +1,11 @@
 <h1>Portfólio IBM</h1> 
 
 
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUÍDO&color=RED&style=for-the-badge"/>
 
+<br>
 
-> Status do Projeto: :warning: Em desenvolvimento
+> Status do Projeto: :white_check_mark: Concluído
 
 ### Tópicos 
 
